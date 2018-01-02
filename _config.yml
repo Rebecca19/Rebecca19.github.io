@@ -1,8 +1,8 @@
 # Basic
-title: 王彭
+title: 嘉懿
 subtitle: 个人写作原地
 welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: Vno Jekyll is a port of my Ghost theme vno.
+description: 这是一片知识荒原.
 creator: <a href="http://onev.cat">@onevcat</a>
 
 url: "http://vno.onevcat.com"
@@ -30,17 +30,15 @@ paginate: 10
 paginate_path: "page/:num/"
 
 # Comment
-comment:
-    disqus: vno-jekyll
+# comment:
+    # disqus: vno-jekyll
     # duoshuo: 
     
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
+    github: Rebecca19
     gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    mail: wangpengwz@126.com
 
 # Google Analytics
 ga:
