@@ -1,11 +1,8 @@
 # Basic
 title: 嘉懿
-subtitle: 个人写作原地
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: 这是一片知识荒原.
+subtitle: 一片知识荒原
 
-
-url: "http://vno.onevcat.com"
+description: 种草种花
 
 permalink: /:year/:month/:title/
 
