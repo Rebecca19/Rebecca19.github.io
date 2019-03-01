@@ -1,43 +1,6 @@
-# Basic
-title: 嘉懿
-subtitle: 一片知识荒原
-
-description: 种草种花
-
-permalink: /:year/:month/:title/
-
-# Format
-highlighter: rouge
-
-# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: 
-
-# The blog button should not be removed.
-blog_button:
-    title: Blog
-    description: Visit blog
-
-# Navigation buttons in the front page.
-
-    # - {title: Another Button, description: A button, url: 'http://example.com'}
-
-# Pagination
-gems: [jekyll-paginate]
-paginate: 10
-paginate_path: "page/:num/"
-
-# Comment
-comment:
-    
-# Social
-social:
-    github: Rebecca19
-    gplus: 
-    mail: rebeccawp1993@gmail.com
-
-# Google Analytics
-ga:
-    # id: your_ga_id
-    # host: your_host
-
+title: Minimal theme
+logo: /assets/img/logo.png
+description: Minimal is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-minimal
