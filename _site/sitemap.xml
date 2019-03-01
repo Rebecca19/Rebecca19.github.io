@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/ghpages/LanLing-OMImpression.html</loc>
+<lastmod>2019-01-01T00:00:00+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/ghpages/jekyll/update/welcome-to-jekyll.html</loc>
+<lastmod>2019-02-18T15:24:07+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/ghpages/student_stories/2018-08-31-DingQian-Writer006Review.html</loc>
+<lastmod>2018-08-31T00:00:00+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/ghpages/student_stories/2019-01-01-LanLing-OMImpression.html</loc>
+<lastmod>2019-01-01T00:00:00+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/ghpages/student_stories/2019-01-31-XiaoJian-IA003Review.html</loc>
+<lastmod>2019-01-31T00:00:00+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/ghpages/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/ghpages/student_stories/</loc>
+</url>
+</urlset>
